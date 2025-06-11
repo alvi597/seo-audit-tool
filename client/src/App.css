@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #333446;
+  color: #B8CFCE;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+body.light {
+  background-color: #ffffff;
+  color: #222222;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+}
+
+.hero {
+  text-align: center;
+  border: 2px solid #FF9F00;
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 0 15px #FF9F00;
+  margin-bottom: 2rem;
+}
+
+.highlight {
+  color: #FF9B45;
+}
+
+.input-box {
+  display: flex;
+  margin-top: 1rem;
+}
+
+.input-box input {
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid #FF9F00;
+  outline: none;
+}
+
+.input-box button {
+  margin-left: 1rem;
+  background: #FF9F00;
+  border: none;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+.input-box button:hover {
+  background: #FF9B45;
+}
+
+.theme-toggle {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
+
+.report {
+  border: 2px solid #FF9F00;
+  padding: 1.5rem;
+  border-radius: 1rem;
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  max-width: 600px;
+}
+
+.report button {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background: #FF9F00;
+  color: #fff;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+.report button:hover {
+  background: #FF9B45;
+}
