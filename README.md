@@ -1,6 +1,6 @@
 # 🔍 Hasnain SEO Audit Tool
 
-A full-stack SEO Audit Tool that analyzes websites for SEO performance, accessibility, metadata structure, keyword usage, and performance insights using third-party APIs.
+A MERN-Stack NEXT.Js built, SEO Audit Tool that analyzes websites for SEO performance, accessibility, metadata structure, keyword usage, and performance insights using third-party APIs.
 Built using the MERN stack with Tailwind CSS and deployed on Vercel.
 
 
