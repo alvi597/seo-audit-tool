@@ -36,7 +36,7 @@ Built using the MERN stack with Tailwind CSS and deployed on Vercel.
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js, Tailwind CSS, Framer Motion
+- **Frontend**: React.js,Next.js, Tailwind CSS, Framer Motion
 - **Backend**: Node.js, Express.js
 - **PDF Generation**: Puppeteer / html-pdf
 - **Database**: MongoDB (optional for storing audit history)
