@@ -57,3 +57,4 @@ npm install
 # Install server
 cd ../server
 npm install
+check and give review.
